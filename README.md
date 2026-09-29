@@ -1,9 +1,1 @@
-Hi 👋 I'm M. Saravanan, an MCA student and aspiring software developer.
-
-💻 Interested in Software Development, Web Technologies & Python
-🚀 Currently learning and building real-world projects
-🛠️ Skills: Python, C, SQL, HTML, CSS, JavaScript
-📚 Passionate about learning new technologies and improving my problem-solving skills
-🎯 Goal: To build a successful career in the IT industry
-
-📌 Always learning. Always building. Always improving.
+Create a modern, professional and visually attractive personal portfolio website for M. Saravanan, an MCA student and aspiring Software Developer. The website should present him as a motivated beginner-level developer who is interested in Software Development, Web Technologies and Python. Include a clean hero section with the name “M. Saravanan”, the title “MCA Student | Aspiring Software Developer”, and a short introduction highlighting his interest in learning, building real-world projects and improving problem-solving skills. Add sections for About Me, Skills, Projects, Education, and Contact. Display the technical skills clearly: Python, C, SQL, HTML, CSS and JavaScript. Use a modern developer-focused design with a professional dark/light color combination, smooth animations, clean typography, responsive layouts and attractive but minimal UI elements. Include suitable buttons such as “View Projects”, “Download Resume” and “Contact Me”. Make the website fully responsive for desktop, tablet and mobile devices. Keep the content realistic and use only the information provided; do not create fake companies, work experience, certifications, achievements, projects or skills. The overall design should look suitable for an MCA student applying for internships, placements and entry-level software development opportunities.
